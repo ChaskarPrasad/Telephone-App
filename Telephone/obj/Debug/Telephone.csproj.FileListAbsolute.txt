@@ -1,0 +1,11 @@
+C:\C#Practice\Telephone\Telephone\bin\Debug\Telephone.exe.config
+C:\C#Practice\Telephone\Telephone\bin\Debug\Telephone.exe
+C:\C#Practice\Telephone\Telephone\bin\Debug\Telephone.pdb
+C:\C#Practice\Telephone\Telephone\obj\Debug\Telephone.csproj.AssemblyReference.cache
+C:\C#Practice\Telephone\Telephone\obj\Debug\Telephone.csproj.SuggestedBindingRedirects.cache
+C:\C#Practice\Telephone\Telephone\obj\Debug\Telephone.Form1.resources
+C:\C#Practice\Telephone\Telephone\obj\Debug\Telephone.Properties.Resources.resources
+C:\C#Practice\Telephone\Telephone\obj\Debug\Telephone.csproj.GenerateResource.cache
+C:\C#Practice\Telephone\Telephone\obj\Debug\Telephone.csproj.CoreCompileInputs.cache
+C:\C#Practice\Telephone\Telephone\obj\Debug\Telephone.exe
+C:\C#Practice\Telephone\Telephone\obj\Debug\Telephone.pdb
